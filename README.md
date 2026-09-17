@@ -357,3 +357,7 @@ The following scenarios were verified:
 **Incorrect Password Signin**
 
 ![Invalid Password Signin ](docs/screenshots/signin-incorrect-password.png)
+
+**Missing Field Signin**
+
+![Missing Field Signin ](docs/screenshots/signin-missing-field-example.png)
